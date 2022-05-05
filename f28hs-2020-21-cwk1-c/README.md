@@ -1,6 +1,5 @@
 # F28HS Coursework 1
 
-This is the starter code for F28HS coursework 1: C programming.
 
 ## Getting the code
 
