@@ -1,14 +1,6 @@
 # F28HS Coursework 1
 
-
-## Getting the code
-
-You must first **FORK** the project from:
-
-https://gitlab-student.macs.hw.ac.uk/f28hs-2020-21/f28hs-2020-21-staff/f28hs-2020-21-cwk1-c
-
-then clone your fork to your computer.
-
+Steganoraphy - encoding and decoding messages strored in pixels.
 
 ## Compiling
 
